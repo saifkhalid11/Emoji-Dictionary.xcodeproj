@@ -13,6 +13,7 @@
 		C3D69F281FFFAFA200FD6DDF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C3D69F271FFFAFA200FD6DDF /* Assets.xcassets */; };
 		C3D69F2B1FFFAFA200FD6DDF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C3D69F291FFFAFA200FD6DDF /* LaunchScreen.storyboard */; };
 		C3D8AC17200221FC00870BCD /* NavigationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3D8AC16200221FC00870BCD /* NavigationViewController.swift */; };
+		C3D8AC192003291600870BCD /* Emoji.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3D8AC182003291600870BCD /* Emoji.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		C3D69F2A1FFFAFA200FD6DDF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C3D69F2C1FFFAFA200FD6DDF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C3D8AC16200221FC00870BCD /* NavigationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewController.swift; sourceTree = "<group>"; };
+		C3D8AC182003291600870BCD /* Emoji.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Emoji.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				C3D69F201FFFAFA200FD6DDF /* AppDelegate.swift */,
 				C3D69F221FFFAFA200FD6DDF /* ViewController.swift */,
 				C3D8AC16200221FC00870BCD /* NavigationViewController.swift */,
+				C3D8AC182003291600870BCD /* Emoji.swift */,
 				C3D69F241FFFAFA200FD6DDF /* Main.storyboard */,
 				C3D69F271FFFAFA200FD6DDF /* Assets.xcassets */,
 				C3D69F291FFFAFA200FD6DDF /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 			files = (
 				C3D8AC17200221FC00870BCD /* NavigationViewController.swift in Sources */,
 				C3D69F231FFFAFA200FD6DDF /* ViewController.swift in Sources */,
+				C3D8AC192003291600870BCD /* Emoji.swift in Sources */,
 				C3D69F211FFFAFA200FD6DDF /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
